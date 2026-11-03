@@ -28,6 +28,15 @@
       "description": "Contains pure punchyglycerin.",
       "price": 20,
       "attunement": null
+    },
+    {
+      "id": "item_004",
+      "name": "Potion of First Responders",
+      "effect": "Action to drink: For the next 1 hour, you make your initiative rolls with advantage. If you are in initiative order right now, reroll your initiative order.",
+      "weight": 0.5,
+      "description": "Blue and grimey liquid that seems hard to swallow.",
+      "price": 70,
+      "attunement": null
     }
     
   ]
