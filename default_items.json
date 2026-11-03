@@ -1,22 +1,22 @@
 {
-  "version": 1.3,
+  "version": 0.2,
   "last_updated": "2026-11-03",
   "items": [
     {
       "id": "item_001",
-      "name": "Potion of Lesser Healing",
-      "effect": "Restores 2d4 + 2 hit points.",
+      "name": "Potion of Cohesion Healing",
+      "effect": "Restores 1d4 hit points for each creature in your cohesion (minimum of 1d4.",
       "weight": 0.5,
       "description": "A bubbling crimson liquid in a stoppered glass vial.",
-      "price": 50,
+      "price": 30,
       "attunement": null
     },
     {
       "id": "item_002",
-      "name": "Cloak of Elvenkind",
-      "effect": "Grants advantage on Stealth checks.",
-      "weight": 1.0,
-      "description": "Made of shimmering fabric that shifts to match the environment.",
+      "name": "Cloak of Sealing Wind",
+      "effect": "You ignore winds and windy forces.",
+      "weight": 3.0,
+      "description": "Made of heavy aerophobic material.",
       "price": 500,
       "attunement": "Requires Attunement"
     }
