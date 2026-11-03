@@ -19,6 +19,16 @@
       "description": "Made of heavy aerophobic material.",
       "price": 500,
       "attunement": "Requires Attunement"
+    },
+    {
+      "id": "item_003",
+      "name": "Bottle Bomb",
+      "effect": "When this bottle breaks, each creature within 15ft of it must succeed in a DC 13 dexterity saving throw, receiving 2d6 bludgeoning damage on a failure, or half as much on a successful save.",
+      "weight": 1.0,
+      "description": "Contains pure punchyglycerin.",
+      "price": 20,
+      "attunement": null
     }
+    
   ]
 }
