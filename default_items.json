@@ -50,7 +50,9 @@
       "weight": 0.5,
       "description": "Blue and grimey liquid that seems hard to swallow.",
       "price": 70,
-      "attunement": null
+      "attunement": null,
+      "created_at": "2026-11-06 13:22 (UTC+2)",
+      "edited_at": "2026-11-06 13:22 (UTC+2)"
     },
     {
       "id": "item_005",
