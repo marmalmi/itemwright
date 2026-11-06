@@ -1,6 +1,6 @@
 {
   "version": 0.211,
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-06",
   "items": [
     {
       "id": "item_001",
@@ -37,7 +37,15 @@
       "description": "Blue and grimey liquid that seems hard to swallow.",
       "price": 70,
       "attunement": null
+    },
+    {
+      "id": "item_005",
+      "name": "New Placeholder Item",
+      "effect": "Describe the effect here.",
+      "weight": 1.0,
+      "description": "Add a description of what it looks like.",
+      "price": 10,
+      "attunement": null
     }
-    
   ]
 }
