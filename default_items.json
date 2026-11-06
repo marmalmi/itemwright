@@ -37,7 +37,9 @@
       "weight": 1.0,
       "description": "Contains pure punchyglycerin.",
       "price": 20,
-      "attunement": null
+      "attunement": null,
+      "created_at": "2026-11-06 13:21 (UTC+2)",
+      "edited_at": "2026-11-06 13:21 (UTC+2)"
     },
     {
       "id": "item_004",
