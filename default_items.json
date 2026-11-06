@@ -63,7 +63,9 @@
       "weight": 2.0,
       "description": "It feels almost weightless when actually being wielded, as if it had its own anchor-point in spacetime.",
       "price": 300,
-      "attunement": null
+      "attunement": null,
+      "created_at": "2026-11-06 13:22 (UTC+2)",
+      "edited_at": "2026-11-06 13:22 (UTC+2)"
     },
     {
       "id": "item_006",
