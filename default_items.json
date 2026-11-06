@@ -92,6 +92,19 @@
       "attunement": "Attunement by a creature that has lost its faith",
       "created_at": "2026-11-06 13:45 (UTC+2)",
       "edited_at": "2026-11-06 13:45 (UTC+2)"
+    },
+    {
+      "id": "item_008",
+      "name": "Blightstar",
+      "type": "Item, Statue",
+      "rarity": "Artifact",
+      "effect": "Void Aura: Each creature within15ft of you has their constitution score be equal to the lowest constitution score among them. If the creature with the lowest base constitution score, or a creature tied to the lowest base constitution score doesn't have proficiency in constitution saving throws, all the creatures affected lose the proficiency in that saving throw while under this aura's effect.\r\nBlight Spell: You can cast Blight from this item using your highest mental ability modifier + proficiency bonus + 8 as the DC for the spell, if you are not a spellcaster. You can cast the spell once per day without expending a spell slot, regaining the use when the next time the sun fully sets. Alternatively you may cast the spell using spell slots.",
+      "weight": 5.0,
+      "description": "An eight-pointed star carved from unpolished necrotite.",
+      "price": 1200,
+      "attunement": "Attunement by an evil aligned creature",
+      "created_at": "2026-11-06 14:05 (UTC+2)",
+      "edited_at": "2026-11-06 14:05 (UTC+2)"
     }
   ]
 }
