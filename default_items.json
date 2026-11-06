@@ -48,6 +48,17 @@
       "description": "It feels almost weightless when actually being wielded, as if it had its own anchor-point in spacetime.",
       "price": 300,
       "attunement": null
+    },
+    {
+      "id": "item_006",
+      "name": "Tactical Goo",
+      "type": "Vial",
+      "rarity": "Common",
+      "effect": "As an action you hurl this vial of goo at a position within 30ft of yourself. The vial cracks on impact, and turns that position into difficult terrain.",
+      "weight": 0.2,
+      "description": "It's green and smells bad. It's also extremely viscous.",
+      "price": 10,
+      "attunement": null
     }
   ]
 }
