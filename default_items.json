@@ -40,11 +40,11 @@
     },
     {
       "id": "item_005",
-      "name": "New Placeholder Item",
-      "effect": "Describe the effect here.",
-      "weight": 1.0,
-      "description": "Add a description of what it looks like.",
-      "price": 10,
+      "name": "Spear of Gravity",
+      "effect": "+1 bonus to attack and damage rolls made with this weapon.\r\nDawnbound: You may expend your action to force each other creature within 15ft of you to make a DC 17 strength saving throw. On a failure, a creature receives 2d6 force damage and is pulled towards you until it cannot be pulled further due to something blocking it, or until it is within 5ft of you. The spear can be used like this once, and it regains the use next dawn.",
+      "weight": 2.0,
+      "description": "It feels almost weightless when actually being wielded, as if it had its own anchor-point in spacetime.",
+      "price": 300,
       "attunement": null
     }
   ]
