@@ -76,7 +76,9 @@
       "weight": 0.2,
       "description": "It's green and smells bad. It's also extremely viscous.",
       "price": 10,
-      "attunement": null
+      "attunement": null,
+      "created_at": "2026-11-06 13:22 (UTC+2)",
+      "edited_at": "2026-11-06 13:22 (UTC+2)"
     }
   ]
 }
