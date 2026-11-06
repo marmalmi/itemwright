@@ -5,15 +5,15 @@
     {
       "id": "item_001",
       "name": "Potion of Cohesion Healing",
-      "type": null,
-      "rarity": null,
+      "type": "Consumable, Potion",
+      "rarity": "Common",
       "effect": "Restores 1d4 hit points for each creature in your cohesion (minimum of 1d4.",
       "weight": 0.5,
       "description": "A bubbling crimson liquid in a stoppered glass vial.",
       "price": 30,
       "attunement": null,
       "created_at": "2026-11-06 13:21 (UTC+2)",
-      "edited_at": "2026-11-06 13:21 (UTC+2)"
+      "edited_at": "2026-11-06 13:24 (UTC+2)"
     },
     {
       "id": "item_002",
