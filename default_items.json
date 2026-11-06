@@ -79,6 +79,19 @@
       "attunement": null,
       "created_at": "2026-11-06 13:22 (UTC+2)",
       "edited_at": "2026-11-06 13:22 (UTC+2)"
+    },
+    {
+      "id": "item_007",
+      "name": "Scar of Heresy",
+      "type": "Item, Tattoo Pen",
+      "rarity": "Very Rare",
+      "effect": "As you attune to this item, a massive scar appears across your chest, over your heart.\r\nHeretic: You have resistance against non-physical damage dealt by celestials, and cannot be targeted by spells cast by such creatures if the level of the spell is 3 or lower.\r\nFaithless: You cannot cast spells or use abilities or traits granted to you by faith. Spells and magical effects that deal damage to you, or would grant hit points to you, have their power halved. (If you would gain 4 hit points, you gain 2 hit points instead. If you would receive 8 damage, you receive 4 damage instead.)",
+      "weight": 0.1,
+      "description": "Once knew a paladin who had one of these. He was a terrifying guy.",
+      "price": 666,
+      "attunement": "Attunement by a creature that has lost its faith",
+      "created_at": "2026-11-06 13:45 (UTC+2)",
+      "edited_at": "2026-11-06 13:45 (UTC+2)"
     }
   ]
 }
