@@ -118,6 +118,19 @@
       "attunement": null,
       "created_at": "2026-11-07 22:02 (UTC+2)",
       "edited_at": "2026-11-07 22:02 (UTC+2)"
+    },
+    {
+      "id": "item_010",
+      "name": "Rule of Law",
+      "type": "Weapon, Any Bow",
+      "rarity": "Legendary",
+      "effect": "Damage Up: This bow's base damage is increased by 1 of its damage types. (1d6 becomes 2d6, 1d8 becomes 2d8 and so on.)\r\nCreator of Law: When you fire this bow, and if you are a lawful-aligned creature, you may expend your reaction and utter a law that does not specify a creature or a group of creatures. That law becomes a part of reality and cannot be broken until this encounter is over. It touches each and every creature in the initiative order, no matter their alignment or relationship to this item. (You cannot make a rule \"Greg cannot cast spells\" or \"The baddies cannot regain hit points\" since those are specific and not universal rules.)",
+      "weight": 2.0,
+      "description": "This bow is made from mahogany, and doesn't care who wields it. It receives a lawful order, and ",
+      "price": 10,
+      "attunement": null,
+      "created_at": "2026-11-07 22:08 (UTC+2)",
+      "edited_at": "2026-11-07 22:08 (UTC+2)"
     }
   ]
 }
