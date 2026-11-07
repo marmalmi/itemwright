@@ -20,13 +20,13 @@
       "name": "Cloak of Sealing Wind",
       "type": "Cloak",
       "rarity": "Uncommon",
-      "effect": "You ignore winds and windy forces.",
+      "effect": "You ignore winds and windy forces while wearing this cloak.",
       "weight": 3.0,
       "description": "Made of heavy aerophobic material.",
       "price": 500,
-      "attunement": "Requires Attunement",
+      "attunement": null,
       "created_at": "2026-11-06 13:21 (UTC+2)",
-      "edited_at": "2026-11-06 13:21 (UTC+2)"
+      "edited_at": "2026-11-07 22:10 (UTC+2)"
     },
     {
       "id": "item_003",
