@@ -137,13 +137,13 @@
       "name": "Badge of Truth",
       "type": "Item, Symbol of Law",
       "rarity": null,
-      "effect": "Learn the Law: You can spend 12 hours split into down to 1 hour segments to study the law of the local region, with access to the local laws. After the 12 hours of study are done, you are knowledgeable enough to make decisions and laws lawfully, and can work as a public attorney. More intricate laws require an additional 24 hours.\r\nAgent of Law: If you are at least mostly knowledgeable of the local laws, you can present his badge and be considered part of the nearest law-enforcement agency in terms of authority, with the privileges and rights such as lawful orders and similar that come with the badge of that order. If you misuse this authority, you can face corruption charges and other issues, so it is very much encouraged to be professional about your conduct.",
+      "effect": "Learn the Law: You can spend a total of 12 hours studying the legal texts of a local region. This time can be broken down into increments of at least 1 hour. Once completed, you gain a thorough understanding of the region's standard laws, allowing you to legally act as a public attorney or counselor. For highly intricate, ancient, or obscure laws, you must spend an additional 24 hours of study.\r\nAgent of Law: If you are knowledgeable in the local laws of the region you are currently in, you can display this badge as an action. For the next hour, you are recognized as an official member of the nearest local law-enforcement agency. You hold the legal authority, privileges, and rights typical of that agency's active officers (such as issuing lawful orders or entering restricted investigation zones).\r\nNotably: This item may be considered contraband if the creature carrying it is not attuned to it.",
       "weight": 0.2,
       "description": "It's a palm-sized badge that has the gavel of a judge engraved into an oval-shape of silver.",
       "price": 600,
       "attunement": "Attunement by a lawful creature with intelligence score of 15 or higher",
       "created_at": "2026-11-07 22:58 (UTC+2)",
-      "edited_at": "2026-11-07 22:58 (UTC+2)"
+      "edited_at": "2026-11-07 23:01 (UTC+2)"
     }
   ]
 }
