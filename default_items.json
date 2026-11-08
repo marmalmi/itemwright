@@ -144,6 +144,19 @@
       "attunement": "Attunement by a lawful creature with intelligence score of 15 or higher",
       "created_at": "2026-11-07 22:58 (UTC+2)",
       "edited_at": "2026-11-07 23:01 (UTC+2)"
+    },
+    {
+      "id": "item_012",
+      "name": "Forgotten Divinity",
+      "type": "Shard, Divinity",
+      "rarity": "Artifact",
+      "effect": "Divine Domain: As you attune to this artifact, for each 6 levels you have, choose a domain. You have that domain or those domains while you remain attuned to this item, and you have godlike knowledge of the domains you have. Skill checks and saving throws made related to that domain, you roll with advantage.\r\nForgotten: You have no followers or subjects. You have to make them pray to you, to grow stronger in your powers.",
+      "weight": 0.1,
+      "description": "A glinting star-like opaque and glinting shard of a greater whole. Whatever divine it was shattered from, has long since been forgotten",
+      "price": 9999999,
+      "attunement": "Attunement by a creature of level/CR 6 or greater.",
+      "created_at": "2026-11-08 13:09 (UTC+2)",
+      "edited_at": "2026-11-08 13:09 (UTC+2)"
     }
   ]
 }
